@@ -1,5 +1,5 @@
 # Delivery!
-You are a delivery driver helping deliver goods.
+You are a delivery driver.
 
 ---
 https://fsudigitalmedia.github.io/bitsy-project-c3li/
