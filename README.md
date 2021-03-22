@@ -1,6 +1,5 @@
-# The Name of Your Game
-
-A short description of your game
+# Delivery!
+You are a delivery driver helping deliver goods.
 
 ---
 
